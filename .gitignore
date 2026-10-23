@@ -1,0 +1,13 @@
+node_modules
+dist
+*.tsbuildinfo
+.DS_Store
+.env
+.env.*
+
+# Configuración de servidores de otros proyectos; no pertenece a este repositorio.
+deploy/
+
+# Archivos de herramientas locales
+.impeccable/
+.playwright-mcp/
